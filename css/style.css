@@ -18,182 +18,163 @@ body {
 }
 
 #header-svg path:nth-child(0){
-  stroke-dasharray: 241.29150390625px;
-  stroke-dashoffset: 241.29150390625px;
+  stroke-dasharray: 298.3410949707031px;
+  stroke-dashoffset: 298.3410949707031px;
+}
+#header-svg path:nth-child(18){
+  stroke-dasharray: 298.3410949707031px;
+  stroke-dashoffset: 298.3410949707031px;
 }
 
 #header-svg path:nth-child(1){
-  stroke-dasharray: 225.79098510742188px;
-  stroke-dashoffset: 225.79098510742188px;
+  stroke-dasharray: 264.234375px;
+  stroke-dashoffset: 264.234375px;
+}
+#header-svg path:nth-child(19){
+  stroke-dasharray: 264.234375px;
+  stroke-dashoffset: 264.234375px;
 }
 
 #header-svg path:nth-child(2){
-  stroke-dasharray: 196.68995666503906px;
-  stroke-dashoffset: 196.68995666503906px;
+  stroke-dasharray: 257.3231506347656px;
+  stroke-dashoffset: 257.3231506347656px;
+}
+#header-svg path:nth-child(20){
+  stroke-dasharray: 257.3231506347656px;
+  stroke-dashoffset: 257.3231506347656px;
 }
 
 #header-svg path:nth-child(3){
-  stroke-dasharray: 121.00799560546875px;
-  stroke-dashoffset: 121.00799560546875px;
+  stroke-dasharray: 160.95448303222656px;
+  stroke-dashoffset: 160.95448303222656px;
+}
+#header-svg path:nth-child(21){
+  stroke-dasharray: 160.95448303222656px;
+  stroke-dashoffset: 160.95448303222656px;
 }
 
 #header-svg path:nth-child(4){
-  stroke-dasharray: 266.6998291015625px;
-  stroke-dashoffset: 266.6998291015625px;
+  stroke-dasharray: 342.017578125px;
+  stroke-dashoffset: 342.017578125px;
+}
+#header-svg path:nth-child(22){
+  stroke-dasharray: 342.017578125px;
+  stroke-dashoffset: 342.017578125px;
 }
 
 #header-svg path:nth-child(5){
-  stroke-dasharray: 146.14703369140625px;
-  stroke-dashoffset: 146.14703369140625px;
+  stroke-dasharray: 194.52647399902344px;
+  stroke-dashoffset: 194.52647399902344px;
+}
+#header-svg path:nth-child(23){
+  stroke-dasharray: 194.52647399902344px;
+  stroke-dashoffset: 194.52647399902344px;
 }
 
 #header-svg path:nth-child(6){
-  stroke-dasharray: 225.79177856445312px;
-  stroke-dashoffset: 225.79177856445312px;
+  stroke-dasharray: 264.23468017578125px;
+  stroke-dashoffset: 264.23468017578125px;
+}
+#header-svg path:nth-child(24){
+  stroke-dasharray: 264.23468017578125px;
+  stroke-dashoffset: 264.23468017578125px;
 }
 
 #header-svg path:nth-child(7){
-  stroke-dasharray: 197.91488647460938px;
-  stroke-dashoffset: 197.91488647460938px;
+  stroke-dasharray: 260.6463623046875px;
+  stroke-dashoffset: 260.6463623046875px;
+}
+#header-svg path:nth-child(25){
+  stroke-dasharray: 260.6463623046875px;
+  stroke-dashoffset: 260.6463623046875px;
 }
 
 #header-svg path:nth-child(8){
-  stroke-dasharray: 249.24171447753906px;
-  stroke-dashoffset: 249.24171447753906px;
+  stroke-dasharray: 309.9599914550781px;
+  stroke-dashoffset: 309.9599914550781px;
+}
+#header-svg path:nth-child(26){
+  stroke-dasharray: 309.9599914550781px;
+  stroke-dashoffset: 309.9599914550781px;
 }
 
 #header-svg path:nth-child(9){
-  stroke-dasharray: 121.00799560546875px;
-  stroke-dashoffset: 121.00799560546875px;
+  stroke-dasharray: 160.9545440673828px;
+  stroke-dashoffset: 160.9545440673828px;
+}
+#header-svg path:nth-child(27){
+  stroke-dasharray: 160.9545440673828px;
+  stroke-dashoffset: 160.9545440673828px;
 }
 
 #header-svg path:nth-child(10){
-  stroke-dasharray: 218.80809020996094px;
-  stroke-dashoffset: 218.80809020996094px;
+  stroke-dasharray: 261.3369140625px;
+  stroke-dashoffset: 261.3369140625px;
+}
+#header-svg path:nth-child(28){
+  stroke-dasharray: 261.3369140625px;
+  stroke-dashoffset: 261.3369140625px;
 }
 
 #header-svg path:nth-child(11){
-  stroke-dasharray: 02.38955688476562px;
-  stroke-dashoffset: 02.38955688476562px;
+  stroke-dasharray: 251.8354034423828px;
+  stroke-dashoffset: 251.8354034423828px;
+}
+#header-svg path:nth-child(29){
+  stroke-dasharray: 251.8354034423828px;
+  stroke-dashoffset: 251.8354034423828px;
 }
 
 #header-svg path:nth-child(12){
-  stroke-dasharray: 394.9288635253906px;
-  stroke-dashoffset: 394.9288635253906px;
+  stroke-dasharray: 465.03466796875px;
+  stroke-dashoffset: 465.03466796875px;
+}
+#header-svg path:nth-child(30){
+  stroke-dasharray: 465.03466796875px;
+  stroke-dashoffset: 465.03466796875px;
 }
 
 #header-svg path:nth-child(13){
-  stroke-dasharray: 218.8112030029297px;
-  stroke-dashoffset: 218.8112030029297px;
+  stroke-dasharray: 261.337158203125px;
+  stroke-dashoffset: 261.337158203125px;
+}
+#header-svg path:nth-child(31){
+  stroke-dasharray: 261.337158203125px;
+  stroke-dashoffset: 261.337158203125px;
 }
 
 #header-svg path:nth-child(14){
-  stroke-dasharray: 250.74427795410156px;
-  stroke-dashoffset: 250.74427795410156px;
+  stroke-dasharray: 309.86328125px;
+  stroke-dashoffset: 309.86328125px;
+}
+#header-svg path:nth-child(32){
+  stroke-dasharray: 309.86328125px;
+  stroke-dashoffset: 309.86328125px;
 }
 
 #header-svg path:nth-child(15){
-  stroke-dasharray: 271.3387451171875px;
-  stroke-dashoffset: 271.3387451171875px;
+  stroke-dasharray: 380.0243225097656px;
+  stroke-dashoffset: 380.0243225097656px;
+}
+#header-svg path:nth-child(33){
+  stroke-dasharray: 380.0243225097656px;
+  stroke-dashoffset: 380.0243225097656px;
 }
 
 #header-svg path:nth-child(16){
-  stroke-dasharray: 218.8098602294922px;
-  stroke-dashoffset: 218.8098602294922px;
+  stroke-dasharray: 261.33721923828125px;
+  stroke-dashoffset: 261.33721923828125px;
+}
+#header-svg path:nth-child(34){
+  stroke-dasharray: 261.33721923828125px;
+  stroke-dashoffset: 261.33721923828125px;
 }
 
 #header-svg path:nth-child(17){
-  stroke-dasharray: 160.585205078125px;
-  stroke-dashoffset: 160.585205078125px;
+  stroke-dasharray: 192.85626220703125px;
+  stroke-dashoffset: 192.85626220703125px;
 }
-
-#header-svg path:nth-child(18){
-  stroke-dasharray: 241.29150390625px;
-  stroke-dashoffset: 241.29150390625px;
-}
-
-#header-svg path:nth-child(19){
-  stroke-dasharray: 225.79098510742188px;
-  stroke-dashoffset: 225.79098510742188px;
-}
-
-#header-svg path:nth-child(20){
-  stroke-dasharray: 196.68995666503906px;
-  stroke-dashoffset: 196.68995666503906px;
-}
-
-#header-svg path:nth-child(21){
-  stroke-dasharray: 121.00799560546875px;
-  stroke-dashoffset: 121.00799560546875px;
-}
-
-#header-svg path:nth-child(22){
-  stroke-dasharray: 266.6998291015625px;
-  stroke-dashoffset: 266.6998291015625px;
-}
-
-#header-svg path:nth-child(23){
-  stroke-dasharray: 146.14703369140625px;
-  stroke-dashoffset: 146.14703369140625px;
-}
-
-#header-svg path:nth-child(24){
-  stroke-dasharray: 225.79177856445312px;
-  stroke-dashoffset: 225.79177856445312px;
-}
-
-#header-svg path:nth-child(25){
-  stroke-dasharray: 146.14703369140625px;
-  stroke-dashoffset: 146.14703369140625px;
-}
-
-#header-svg path:nth-child(26){
-  stroke-dasharray: 225.79177856445312px;
-  stroke-dashoffset: 225.79177856445312px;
-}
-
-#header-svg path:nth-child(27){
-  stroke-dasharray: 225.79177856445312px;
-  stroke-dashoffset:225.791778564453123px;
-}
-
-#header-svg path:nth-child(28){
-  stroke-dasharray: 225.79177856445312px;
-  stroke-dashoffset: 225.79177856445312px;
-}
-
-#header-svg path:nth-child(29){
-  stroke-dasharray: 225.79177856445312px;
-  stroke-dashoffset: 225.79177856445312px;
-}
-
-#header-svg path:nth-child(30){
-  stroke-dasharray: 225.79177856445312px;
-  stroke-dashoffset: 225.79177856445312px;
-}
-
-#header-svg path:nth-child(31){
-  stroke-dasharray: 225.79177856445312px;
-  stroke-dashoffset: 225.79177856445312px;
-}
-
-#header-svg path:nth-child(32){
-  stroke-dasharray: 225.79177856445312px;
-  stroke-dashoffset: 225.79177856445312px;
-}
-
-#header-svg path:nth-child(33){
-  stroke-dasharray: 225.79177856445312px;
-  stroke-dashoffset: 225.79177856445312px;
-}
-
-#header-svg path:nth-child(34){
-  stroke-dasharray: 225.79177856445312px;
-  stroke-dashoffset: 225.79177856445312px;
-}
-
 #header-svg path:nth-child(35){
-  stroke-dasharray: 225.79177856445312px;
-  stroke-dashoffset: 225.79177856445312px;
+  stroke-dasharray: 192.85626220703125px;
+  stroke-dashoffset: 192.85626220703125px;
 }
-
