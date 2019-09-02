@@ -14,167 +14,219 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%)
+  transform: translate(-50%, -50%);
+  animation: fill 0.5s ease forwards 3s;
 }
 
 #header-svg path:nth-child(0){
   stroke-dasharray: 298.3410949707031px;
   stroke-dashoffset: 298.3410949707031px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(18){
   stroke-dasharray: 298.3410949707031px;
   stroke-dashoffset: 298.3410949707031px;
+  animation: lineAnim 2s ease forwards;
 }
 
 #header-svg path:nth-child(1){
-  stroke-dasharray: 264.234375px;
+  stroke-dasharray: 200.234375px;
   stroke-dashoffset: 264.234375px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(19){
   stroke-dasharray: 264.234375px;
   stroke-dashoffset: 264.234375px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(2){
   stroke-dasharray: 257.3231506347656px;
   stroke-dashoffset: 257.3231506347656px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(20){
   stroke-dasharray: 257.3231506347656px;
   stroke-dashoffset: 257.3231506347656px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(3){
   stroke-dasharray: 160.95448303222656px;
   stroke-dashoffset: 160.95448303222656px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(21){
   stroke-dasharray: 160.95448303222656px;
   stroke-dashoffset: 160.95448303222656px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(4){
   stroke-dasharray: 342.017578125px;
   stroke-dashoffset: 342.017578125px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(22){
   stroke-dasharray: 342.017578125px;
   stroke-dashoffset: 342.017578125px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(5){
   stroke-dasharray: 194.52647399902344px;
   stroke-dashoffset: 194.52647399902344px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(23){
   stroke-dasharray: 194.52647399902344px;
   stroke-dashoffset: 194.52647399902344px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(6){
   stroke-dasharray: 264.23468017578125px;
   stroke-dashoffset: 264.23468017578125px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(24){
   stroke-dasharray: 264.23468017578125px;
   stroke-dashoffset: 264.23468017578125px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(7){
   stroke-dasharray: 260.6463623046875px;
   stroke-dashoffset: 260.6463623046875px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(25){
   stroke-dasharray: 260.6463623046875px;
   stroke-dashoffset: 260.6463623046875px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(8){
   stroke-dasharray: 309.9599914550781px;
   stroke-dashoffset: 309.9599914550781px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(26){
   stroke-dasharray: 309.9599914550781px;
   stroke-dashoffset: 309.9599914550781px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(9){
   stroke-dasharray: 160.9545440673828px;
   stroke-dashoffset: 160.9545440673828px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(27){
   stroke-dasharray: 160.9545440673828px;
   stroke-dashoffset: 160.9545440673828px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(10){
   stroke-dasharray: 261.3369140625px;
   stroke-dashoffset: 261.3369140625px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(28){
   stroke-dasharray: 261.3369140625px;
   stroke-dashoffset: 261.3369140625px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(11){
   stroke-dasharray: 251.8354034423828px;
   stroke-dashoffset: 251.8354034423828px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(29){
   stroke-dasharray: 251.8354034423828px;
   stroke-dashoffset: 251.8354034423828px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(12){
   stroke-dasharray: 465.03466796875px;
   stroke-dashoffset: 465.03466796875px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(30){
   stroke-dasharray: 465.03466796875px;
   stroke-dashoffset: 465.03466796875px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(13){
   stroke-dasharray: 261.337158203125px;
   stroke-dashoffset: 261.337158203125px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(31){
   stroke-dasharray: 261.337158203125px;
   stroke-dashoffset: 261.337158203125px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(14){
   stroke-dasharray: 309.86328125px;
   stroke-dashoffset: 309.86328125px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(32){
   stroke-dasharray: 309.86328125px;
   stroke-dashoffset: 309.86328125px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(15){
   stroke-dasharray: 380.0243225097656px;
   stroke-dashoffset: 380.0243225097656px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(33){
   stroke-dasharray: 380.0243225097656px;
   stroke-dashoffset: 380.0243225097656px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(16){
   stroke-dasharray: 261.33721923828125px;
   stroke-dashoffset: 261.33721923828125px;
+  animation: lineAmin 2s ease forwards;
 }
 #header-svg path:nth-child(34){
   stroke-dasharray: 261.33721923828125px;
   stroke-dashoffset: 261.33721923828125px;
+  animation: lineAmin 2s ease forwards;
 }
 
 #header-svg path:nth-child(17){
   stroke-dasharray: 192.85626220703125px;
   stroke-dashoffset: 192.85626220703125px;
+  animation: lineAmin 2s ease forwards 1.2s;
 }
 #header-svg path:nth-child(35){
   stroke-dasharray: 192.85626220703125px;
   stroke-dashoffset: 192.85626220703125px;
+  animation: lineAmin 2s ease forwards 1.2s;
+}
+
+@keyframes lineAnim {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes fill {
+  from {
+    fill: transparent;
+  }
+  to {
+    fill: white;
+  }
 }
