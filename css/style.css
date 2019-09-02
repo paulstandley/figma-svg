@@ -1,0 +1,199 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+}
+
+#header-svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+#header-svg path:nth-child(0){
+  stroke-dasharray: 241.29150390625px;
+  stroke-dashoffset: 241.29150390625px;
+}
+
+#header-svg path:nth-child(1){
+  stroke-dasharray: 225.79098510742188px;
+  stroke-dashoffset: 225.79098510742188px;
+}
+
+#header-svg path:nth-child(2){
+  stroke-dasharray: 196.68995666503906px;
+  stroke-dashoffset: 196.68995666503906px;
+}
+
+#header-svg path:nth-child(3){
+  stroke-dasharray: 121.00799560546875px;
+  stroke-dashoffset: 121.00799560546875px;
+}
+
+#header-svg path:nth-child(4){
+  stroke-dasharray: 266.6998291015625px;
+  stroke-dashoffset: 266.6998291015625px;
+}
+
+#header-svg path:nth-child(5){
+  stroke-dasharray: 146.14703369140625px;
+  stroke-dashoffset: 146.14703369140625px;
+}
+
+#header-svg path:nth-child(6){
+  stroke-dasharray: 225.79177856445312px;
+  stroke-dashoffset: 225.79177856445312px;
+}
+
+#header-svg path:nth-child(7){
+  stroke-dasharray: 197.91488647460938px;
+  stroke-dashoffset: 197.91488647460938px;
+}
+
+#header-svg path:nth-child(8){
+  stroke-dasharray: 249.24171447753906px;
+  stroke-dashoffset: 249.24171447753906px;
+}
+
+#header-svg path:nth-child(9){
+  stroke-dasharray: 121.00799560546875px;
+  stroke-dashoffset: 121.00799560546875px;
+}
+
+#header-svg path:nth-child(10){
+  stroke-dasharray: 218.80809020996094px;
+  stroke-dashoffset: 218.80809020996094px;
+}
+
+#header-svg path:nth-child(11){
+  stroke-dasharray: 02.38955688476562px;
+  stroke-dashoffset: 02.38955688476562px;
+}
+
+#header-svg path:nth-child(12){
+  stroke-dasharray: 394.9288635253906px;
+  stroke-dashoffset: 394.9288635253906px;
+}
+
+#header-svg path:nth-child(13){
+  stroke-dasharray: 218.8112030029297px;
+  stroke-dashoffset: 218.8112030029297px;
+}
+
+#header-svg path:nth-child(14){
+  stroke-dasharray: 250.74427795410156px;
+  stroke-dashoffset: 250.74427795410156px;
+}
+
+#header-svg path:nth-child(15){
+  stroke-dasharray: 271.3387451171875px;
+  stroke-dashoffset: 271.3387451171875px;
+}
+
+#header-svg path:nth-child(16){
+  stroke-dasharray: 218.8098602294922px;
+  stroke-dashoffset: 218.8098602294922px;
+}
+
+#header-svg path:nth-child(17){
+  stroke-dasharray: 160.585205078125px;
+  stroke-dashoffset: 160.585205078125px;
+}
+
+#header-svg path:nth-child(18){
+  stroke-dasharray: 241.29150390625px;
+  stroke-dashoffset: 241.29150390625px;
+}
+
+#header-svg path:nth-child(19){
+  stroke-dasharray: 225.79098510742188px;
+  stroke-dashoffset: 225.79098510742188px;
+}
+
+#header-svg path:nth-child(20){
+  stroke-dasharray: 196.68995666503906px;
+  stroke-dashoffset: 196.68995666503906px;
+}
+
+#header-svg path:nth-child(21){
+  stroke-dasharray: 121.00799560546875px;
+  stroke-dashoffset: 121.00799560546875px;
+}
+
+#header-svg path:nth-child(22){
+  stroke-dasharray: 266.6998291015625px;
+  stroke-dashoffset: 266.6998291015625px;
+}
+
+#header-svg path:nth-child(23){
+  stroke-dasharray: 146.14703369140625px;
+  stroke-dashoffset: 146.14703369140625px;
+}
+
+#header-svg path:nth-child(24){
+  stroke-dasharray: 225.79177856445312px;
+  stroke-dashoffset: 225.79177856445312px;
+}
+
+#header-svg path:nth-child(25){
+  stroke-dasharray: 146.14703369140625px;
+  stroke-dashoffset: 146.14703369140625px;
+}
+
+#header-svg path:nth-child(26){
+  stroke-dasharray: 225.79177856445312px;
+  stroke-dashoffset: 225.79177856445312px;
+}
+
+#header-svg path:nth-child(27){
+  stroke-dasharray: 225.79177856445312px;
+  stroke-dashoffset:225.791778564453123px;
+}
+
+#header-svg path:nth-child(28){
+  stroke-dasharray: 225.79177856445312px;
+  stroke-dashoffset: 225.79177856445312px;
+}
+
+#header-svg path:nth-child(29){
+  stroke-dasharray: 225.79177856445312px;
+  stroke-dashoffset: 225.79177856445312px;
+}
+
+#header-svg path:nth-child(30){
+  stroke-dasharray: 225.79177856445312px;
+  stroke-dashoffset: 225.79177856445312px;
+}
+
+#header-svg path:nth-child(31){
+  stroke-dasharray: 225.79177856445312px;
+  stroke-dashoffset: 225.79177856445312px;
+}
+
+#header-svg path:nth-child(32){
+  stroke-dasharray: 225.79177856445312px;
+  stroke-dashoffset: 225.79177856445312px;
+}
+
+#header-svg path:nth-child(33){
+  stroke-dasharray: 225.79177856445312px;
+  stroke-dashoffset: 225.79177856445312px;
+}
+
+#header-svg path:nth-child(34){
+  stroke-dasharray: 225.79177856445312px;
+  stroke-dashoffset: 225.79177856445312px;
+}
+
+#header-svg path:nth-child(35){
+  stroke-dasharray: 225.79177856445312px;
+  stroke-dashoffset: 225.79177856445312px;
+}
+
